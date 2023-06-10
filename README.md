@@ -6,7 +6,7 @@ Get data from streetvoice
 
 Step 1.點選Network
 
-Step 2.訂閱歌單
+Step 2.訂閱歌單 需先登入帳號
 
 Step 3.右鍵進入連結
 
