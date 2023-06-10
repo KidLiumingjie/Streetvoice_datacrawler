@@ -1,6 +1,6 @@
 # Streetvoice_datacrawler
 Get data from streetvoice
-### 開啟KKBOX榜單 (根據榜單不同 你得到的連結也不同)
+### 開啟Streetvoice榜單 (根據榜單不同 你得到的連結也不同)
 
 按下F12 進入開發者工具
 
