@@ -4,7 +4,9 @@ Get data from streetvoice
 
 按下F12 進入開發者工具
 Step 1.點選Network
+
 Step 2.訂閱歌單
+
 Step 3.右鍵進入連結
 
 ![image](https://github.com/KidLiumingjie/Streetvoice_datacrawler/assets/108582775/9b6e3f84-7864-4295-af31-a5a741356288)
